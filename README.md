@@ -1,17 +1,34 @@
-### Hi there 👋
+Hi there, I'm Ajay Kumar 👋
 
-👋 Hello World! I'm Ajay Kumar, a passionate and versatile tech enthusiast with a strong foundation in Business Analytics and Financial Technology. 🚀
+Welcome to my profile! I'm a versatile tech enthusiast with a strong foundation in Business Analytics and Financial Technology. I enjoy solving problems, working with data, and exploring the intersection of finance and technology.
 
-🎓 BCA graduate from IP University Delhi, India, and a proud alumni of the Canadian education system with post-graduate expertise in Business Analytics and Financial Technology.
+About Me
 
-💼 Currently exploring exciting opportunities in the tech industry, I bring a unique blend of analytical skills, financial acumen, and a knack for problem-solving. My journey includes hands-on experience with data analytics, machine learning, and the intricacies of financial technology.
+🎓 Education: BCA from IP University (Delhi) and post-graduate expertise in Business Analytics & Financial Technology from a Canadian institution.
 
-🔧 Proficient with tools like Python (scikit-learn, TensorFlow), R, SQL, and experienced in utilizing platforms such as Tableau and Power BI for data visualization.
+💼 Status: Currently exploring new opportunities where I can apply my skills in data analytics, machine learning, and fintech.
 
-🌐 I am actively contributing to projects that showcase my skills and passion for innovation. From predictive analytics to blockchain implementations, I enjoy pushing the boundaries of what technology can achieve.
+🚀 Passion: I love contributing to innovative projects, from predictive analytics to blockchain implementations, and pushing the boundaries of technology.
 
-🚀 Let's connect and collaborate on projects that make a difference! Open to discussions on data science, fintech, and everything in between. Excited to be part of the thriving tech community on GitHub! 🌟
+🎯 Current Focus: Prepping for the Microsoft DP-600 certification (Implementing Analytics Solutions Using Microsoft Fabric).
 
-📫 Feel free to reach out: ajay97kumarr@gmail.com | https://www.linkedin.com/in/ajay-kumar-029710129/
+🛠️ My Tech Stack
+Here are some of the tools and technologies I'm proficient with:
+
+BI & Data Visualization: Power BI, Tableau, DAX
+
+Data Analytics & Science: Python (Pandas, NumPy, Scikit-learn, TensorFlow), R, SQL
+
+Databases & Data Warehousing: Microsoft SQL Server, PostgreSQL, Snowflake, Azure Synapse Analytics, Microsoft Fabric (Lakehouse & Warehouse)
+
+Data Engineering & Cloud: Microsoft Azure (Data Factory, OneLake), Databricks, Git
+
+🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects or discussing data science, fintech, and everything in between.
+
+📫 Email: ajay97kumarr@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ajaykumarr02/
 
 Happy coding! 🚀✨
